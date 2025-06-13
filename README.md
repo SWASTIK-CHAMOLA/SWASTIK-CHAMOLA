@@ -15,6 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik-chamola&show_icons=true&locale=en&layout=compact" alt="swastik-chamola" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swastik-chamola&show_icons=true&locale=en" alt="swastik-chamola" /></p>
-<img src="https://raw.githubusercontent.com/SWASTIK-CHAMOLA/SWASTIK-CHAMOLA/output/snake.svg" alt="Snake animation" />
 
 ###
