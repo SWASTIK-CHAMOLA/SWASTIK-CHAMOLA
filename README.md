@@ -3,13 +3,12 @@
 
 - 🌱 I’m currently learning **Machine learning, AI-ML concepts**
 
-### 🌐 Reach out to me here:
+### 🌐Connect With ME:
 
 * 📧 [Email](mailto:swastik.3814031@gmail.com)
 * 💼 [LinkedIn](www.linkedin.com/in/swastik-chamola)
 * 🌐 [Portfolio](https://your-portfolio-website.com)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
