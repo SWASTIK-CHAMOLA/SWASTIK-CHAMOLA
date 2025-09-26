@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm SWASTIK-CHAMOLA</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-chamola&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-chamola" /> </p>
 
-- 🌱 I’m currently learning **Machine learning, AI-ML concepts**
+
+- I’m currently learning **Machine learning, AI-ML concepts**
+- Making projects prioritizing **Usability as well as fun to work on**
 
 ### 🌐Connect With ME:
 
