@@ -7,7 +7,7 @@
 ### 🌐Connect With ME:
 
 * 📧 [Email](mailto:swastik.3814031@gmail.com)
-* 💼 [LinkedIn](www.linkedin.com/in/swastik-chamola)
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/swastik-chamola)
 * 🌐 [Portfolio](https://your-portfolio-website.com)
 
 <p align="left">
